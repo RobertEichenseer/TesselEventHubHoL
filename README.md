@@ -10,7 +10,6 @@ Prerequisites
 -------------
 In order to successfully complete this lab you need to:
 
-* Have successfully setup your Azure Subscription, your development environment and your Tessel according to instructions outlined in the [Setup Lab](../_setup).
 * Have a Node.js version installed and running on your pc. If you have not yet installed Node.js just go to http://www.nodejs.org/ and click on the install button. 
 * You can create and configure the EventHub by using the Azure portal. In this case you don't need any further prerequisites
 * If you want to configure and create the EventHub by code, an installation of Visual Studio with the Azure SDK is necessary. You can download a free version of Visual Studio from http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx. The Azure SDK can be downloaded from http://azure.microsoft.com/en-us/downloads/
